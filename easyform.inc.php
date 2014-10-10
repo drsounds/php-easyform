@@ -1,11 +1,12 @@
 <?php
 /**
- * Form php library
- * 
+ * Easyform PHP Library.
+ * Copyright (C) 2014 Alexander Forselius <drsounds@gmail.com>
+ * License: MIT 
  */
  
 
-class QForm {
+class Easyform {
 	/**
 	 * Table
 	 */
